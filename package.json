@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@amcharts/amcharts5": "^5.3.11",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
