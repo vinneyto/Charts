@@ -1,13 +1,15 @@
 import React from 'react';
 import './App.css';
-import Chart from "./Chart";
+import ChartContainer from "./charts/ChartContainer";
 
 function App() {
     return (
         <div className="App">
-            <Chart/>
+            <ChartContainer/>
         </div>
-    );
+    )
 }
 
 export default App;
+
+
