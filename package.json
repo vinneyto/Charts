@@ -10,10 +10,10 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
-
   },
   "dependencies": {
     "@amcharts/amcharts5": "^5.3.11",
+    "@rollup/plugin-node-resolve": "^15.0.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -26,5 +26,3 @@
     "vite": "^4.2.0"
   }
 }
-
-
